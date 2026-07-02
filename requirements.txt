@@ -1,0 +1,9 @@
+langchain
+langchain-groq
+langchain-community
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+faker

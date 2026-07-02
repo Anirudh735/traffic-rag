@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  traffic-rag:
+    build: .
+    ports:
+      - "8000:8000"       # maps your machine's 8000 to container's 8000
+    env_file:
+      - .env              # passes your GROQ_API_KEY into the container
+    volumes:
+      - ./chroma_db:/app/chroma_db   # persists ChromaDB data outside the container

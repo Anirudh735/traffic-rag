@@ -1,0 +1,2252 @@
+[
+  {
+    "plate": "KA-68-E-2597",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-29 12:17",
+    "speed_kmph": 63,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-13-U-2281",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "no helmet",
+    "timestamp": "2026-05-18 19:21",
+    "speed_kmph": 109,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-21-R-9626",
+    "camera": "CAM-001 MG Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-03 12:37",
+    "speed_kmph": 66,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-09-M-8774",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-01 18:51",
+    "speed_kmph": 103,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-47-H-7984",
+    "camera": "CAM-002 Silk Board",
+    "violation": "no helmet",
+    "timestamp": "2026-05-28 19:27",
+    "speed_kmph": 109,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-90-L-4155",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-17 22:42",
+    "speed_kmph": 55,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-35-T-8426",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-21 16:04",
+    "speed_kmph": 47,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-42-L-8201",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-29 13:21",
+    "speed_kmph": 77,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-98-H-1707",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-07 19:58",
+    "speed_kmph": 71,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-81-F-4500",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "speeding",
+    "timestamp": "2026-05-19 15:54",
+    "speed_kmph": 104,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-71-D-1442",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "no helmet",
+    "timestamp": "2026-06-07 13:34",
+    "speed_kmph": 79,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-03-E-2632",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-14 08:26",
+    "speed_kmph": 88,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-51-T-9086",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "triple riding",
+    "timestamp": "2026-06-08 22:06",
+    "speed_kmph": 85,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-95-K-1758",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-06-04 14:15",
+    "speed_kmph": 69,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-92-F-7039",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "triple riding",
+    "timestamp": "2026-06-07 09:49",
+    "speed_kmph": 104,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-89-S-2280",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-22 11:30",
+    "speed_kmph": 59,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-76-U-4445",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-19 12:18",
+    "speed_kmph": 95,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-71-F-4853",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-23 17:32",
+    "speed_kmph": 56,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-11-L-9169",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-12 21:45",
+    "speed_kmph": 71,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-80-T-1955",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-31 11:33",
+    "speed_kmph": 78,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-15-S-4727",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-05-24 09:04",
+    "speed_kmph": 65,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-82-K-5626",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "no helmet",
+    "timestamp": "2026-06-10 14:18",
+    "speed_kmph": 74,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-34-Y-5838",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-26 15:41",
+    "speed_kmph": 79,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-79-R-1319",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-05-20 18:50",
+    "speed_kmph": 104,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-30-M-9707",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "triple riding",
+    "timestamp": "2026-06-07 16:16",
+    "speed_kmph": 86,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-50-T-9051",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-05-26 21:28",
+    "speed_kmph": 78,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-68-T-1280",
+    "camera": "CAM-002 Silk Board",
+    "violation": "speeding",
+    "timestamp": "2026-06-11 18:34",
+    "speed_kmph": 87,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-34-K-5134",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-03 11:50",
+    "speed_kmph": 99,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-28-Y-8190",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-13 15:41",
+    "speed_kmph": 94,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-10-U-6467",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "speeding",
+    "timestamp": "2026-05-19 13:31",
+    "speed_kmph": 72,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-94-P-5377",
+    "camera": "CAM-002 Silk Board",
+    "violation": "signal violation",
+    "timestamp": "2026-05-23 14:04",
+    "speed_kmph": 83,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-76-S-5476",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-05-25 12:14",
+    "speed_kmph": 45,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-55-N-1287",
+    "camera": "CAM-002 Silk Board",
+    "violation": "no helmet",
+    "timestamp": "2026-05-13 12:27",
+    "speed_kmph": 54,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-33-T-2435",
+    "camera": "CAM-002 Silk Board",
+    "violation": "signal violation",
+    "timestamp": "2026-05-26 06:16",
+    "speed_kmph": 59,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-13-U-1204",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-17 06:15",
+    "speed_kmph": 59,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-48-M-1184",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-10 21:53",
+    "speed_kmph": 60,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-32-C-8833",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "speeding",
+    "timestamp": "2026-06-07 16:30",
+    "speed_kmph": 53,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-83-U-3841",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "triple riding",
+    "timestamp": "2026-06-09 07:04",
+    "speed_kmph": 84,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-47-B-4388",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "signal violation",
+    "timestamp": "2026-06-04 12:52",
+    "speed_kmph": 77,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-83-L-6396",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-14 19:38",
+    "speed_kmph": 98,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-29-R-4263",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "no helmet",
+    "timestamp": "2026-05-15 21:19",
+    "speed_kmph": 93,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-66-A-4720",
+    "camera": "CAM-002 Silk Board",
+    "violation": "signal violation",
+    "timestamp": "2026-05-23 17:53",
+    "speed_kmph": 109,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-76-P-8033",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-05-18 13:56",
+    "speed_kmph": 55,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-79-K-3708",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-26 16:18",
+    "speed_kmph": 87,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-20-L-8266",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-07 15:37",
+    "speed_kmph": 90,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-53-G-1827",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "no helmet",
+    "timestamp": "2026-05-24 10:10",
+    "speed_kmph": 102,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-51-T-8449",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-23 13:51",
+    "speed_kmph": 56,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-90-B-1350",
+    "camera": "CAM-002 Silk Board",
+    "violation": "triple riding",
+    "timestamp": "2026-06-08 10:16",
+    "speed_kmph": 45,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-23-M-7135",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-03 20:46",
+    "speed_kmph": 47,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-98-E-6458",
+    "camera": "CAM-001 MG Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-25 06:15",
+    "speed_kmph": 62,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-28-Y-3322",
+    "camera": "CAM-002 Silk Board",
+    "violation": "no helmet",
+    "timestamp": "2026-06-05 15:49",
+    "speed_kmph": 100,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-46-E-5422",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-27 15:53",
+    "speed_kmph": 96,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-95-U-9420",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "triple riding",
+    "timestamp": "2026-05-27 10:06",
+    "speed_kmph": 85,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-18-S-2502",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-05-18 17:14",
+    "speed_kmph": 100,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-14-B-2170",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-05-29 20:50",
+    "speed_kmph": 58,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-70-V-4206",
+    "camera": "CAM-001 MG Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-31 21:07",
+    "speed_kmph": 97,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-38-D-1494",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-12 09:31",
+    "speed_kmph": 70,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-13-B-4277",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "speeding",
+    "timestamp": "2026-05-26 16:23",
+    "speed_kmph": 54,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-86-R-1269",
+    "camera": "CAM-001 MG Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-19 17:19",
+    "speed_kmph": 62,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-81-T-2493",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "speeding",
+    "timestamp": "2026-05-20 13:15",
+    "speed_kmph": 93,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-08-A-6486",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-09 22:55",
+    "speed_kmph": 68,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-17-Y-6014",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-02 07:33",
+    "speed_kmph": 67,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-12-T-3528",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-17 11:16",
+    "speed_kmph": 74,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-89-D-5621",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "no helmet",
+    "timestamp": "2026-06-09 14:46",
+    "speed_kmph": 90,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-66-A-8742",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-07 09:55",
+    "speed_kmph": 94,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-56-H-2012",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-03 17:24",
+    "speed_kmph": 88,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-33-R-8844",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-22 13:22",
+    "speed_kmph": 54,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-64-H-1598",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-24 17:38",
+    "speed_kmph": 80,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-20-D-7338",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-09 14:06",
+    "speed_kmph": 46,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-67-V-7455",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "triple riding",
+    "timestamp": "2026-06-04 12:17",
+    "speed_kmph": 88,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-37-B-6068",
+    "camera": "CAM-002 Silk Board",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-31 11:16",
+    "speed_kmph": 67,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-81-V-4090",
+    "camera": "CAM-002 Silk Board",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-10 09:53",
+    "speed_kmph": 62,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-53-E-6477",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-01 19:58",
+    "speed_kmph": 64,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-35-S-2613",
+    "camera": "CAM-001 MG Road",
+    "violation": "speeding",
+    "timestamp": "2026-06-08 21:47",
+    "speed_kmph": 99,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-54-N-8175",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "no helmet",
+    "timestamp": "2026-05-22 09:00",
+    "speed_kmph": 104,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-14-V-4618",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-25 17:19",
+    "speed_kmph": 98,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-98-H-7349",
+    "camera": "CAM-001 MG Road",
+    "violation": "speeding",
+    "timestamp": "2026-05-26 07:02",
+    "speed_kmph": 79,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-12-N-5433",
+    "camera": "CAM-001 MG Road",
+    "violation": "triple riding",
+    "timestamp": "2026-06-02 17:15",
+    "speed_kmph": 77,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-93-D-3717",
+    "camera": "CAM-002 Silk Board",
+    "violation": "speeding",
+    "timestamp": "2026-06-12 14:17",
+    "speed_kmph": 76,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-05-D-3538",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "no helmet",
+    "timestamp": "2026-06-06 17:45",
+    "speed_kmph": 60,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-98-G-9668",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "signal violation",
+    "timestamp": "2026-06-01 19:00",
+    "speed_kmph": 57,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-66-E-4336",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-24 06:58",
+    "speed_kmph": 65,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-41-K-2685",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-31 13:39",
+    "speed_kmph": 102,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-62-B-4528",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-12 21:22",
+    "speed_kmph": 55,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-65-H-5026",
+    "camera": "CAM-002 Silk Board",
+    "violation": "speeding",
+    "timestamp": "2026-06-08 12:12",
+    "speed_kmph": 77,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-52-N-8719",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-29 10:27",
+    "speed_kmph": 69,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-68-F-8461",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-29 12:56",
+    "speed_kmph": 86,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-21-D-7023",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-29 09:47",
+    "speed_kmph": 81,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-21-P-4745",
+    "camera": "CAM-002 Silk Board",
+    "violation": "speeding",
+    "timestamp": "2026-05-19 12:17",
+    "speed_kmph": 92,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-07-U-3734",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "speeding",
+    "timestamp": "2026-05-13 16:37",
+    "speed_kmph": 85,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-51-R-3050",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-25 11:55",
+    "speed_kmph": 59,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-95-F-9126",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "signal violation",
+    "timestamp": "2026-06-09 11:14",
+    "speed_kmph": 51,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-80-A-1046",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "speeding",
+    "timestamp": "2026-05-30 07:34",
+    "speed_kmph": 86,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-76-R-2928",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "speeding",
+    "timestamp": "2026-05-31 20:53",
+    "speed_kmph": 92,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-02-E-2156",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "no helmet",
+    "timestamp": "2026-06-12 22:27",
+    "speed_kmph": 63,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-17-D-3092",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-06 08:25",
+    "speed_kmph": 107,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-80-N-9534",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-14 17:12",
+    "speed_kmph": 53,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-06-N-6013",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-27 18:05",
+    "speed_kmph": 109,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-74-F-8639",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-27 13:21",
+    "speed_kmph": 62,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-28-E-3833",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "no helmet",
+    "timestamp": "2026-05-15 22:22",
+    "speed_kmph": 56,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-97-K-4207",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "speeding",
+    "timestamp": "2026-06-12 09:30",
+    "speed_kmph": 96,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-50-M-6816",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-05-23 09:21",
+    "speed_kmph": 101,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-85-A-4589",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-05-22 11:45",
+    "speed_kmph": 96,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-42-U-1942",
+    "camera": "CAM-001 MG Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-08 12:32",
+    "speed_kmph": 79,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-95-A-7515",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-05-29 22:30",
+    "speed_kmph": 68,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-56-C-4743",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-06 10:58",
+    "speed_kmph": 47,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-64-H-5170",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-31 09:51",
+    "speed_kmph": 59,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-72-C-1161",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "triple riding",
+    "timestamp": "2026-05-21 07:52",
+    "speed_kmph": 69,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-53-N-3027",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "triple riding",
+    "timestamp": "2026-05-26 16:50",
+    "speed_kmph": 63,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-29-L-3165",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-18 11:36",
+    "speed_kmph": 103,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-19-U-1739",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-16 19:11",
+    "speed_kmph": 99,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-14-R-7775",
+    "camera": "CAM-002 Silk Board",
+    "violation": "signal violation",
+    "timestamp": "2026-05-15 20:07",
+    "speed_kmph": 107,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-70-S-5283",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-30 13:26",
+    "speed_kmph": 105,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-89-P-3712",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "no helmet",
+    "timestamp": "2026-06-06 20:44",
+    "speed_kmph": 86,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-79-T-7725",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-06-07 11:24",
+    "speed_kmph": 84,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-39-S-5752",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "speeding",
+    "timestamp": "2026-06-09 06:00",
+    "speed_kmph": 63,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-81-P-5900",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "no helmet",
+    "timestamp": "2026-05-26 15:35",
+    "speed_kmph": 80,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-87-R-8906",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-07 08:37",
+    "speed_kmph": 64,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-66-D-8771",
+    "camera": "CAM-002 Silk Board",
+    "violation": "signal violation",
+    "timestamp": "2026-06-09 12:33",
+    "speed_kmph": 58,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-21-R-8956",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-26 15:40",
+    "speed_kmph": 79,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-85-H-1284",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-20 18:08",
+    "speed_kmph": 56,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-93-Y-4119",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "speeding",
+    "timestamp": "2026-05-27 17:42",
+    "speed_kmph": 108,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-03-K-6729",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-06-05 14:52",
+    "speed_kmph": 93,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-77-B-7893",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "triple riding",
+    "timestamp": "2026-06-11 14:51",
+    "speed_kmph": 69,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-09-M-3076",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-21 16:19",
+    "speed_kmph": 70,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-20-V-4955",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-03 21:28",
+    "speed_kmph": 46,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-79-L-6086",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "signal violation",
+    "timestamp": "2026-05-14 19:30",
+    "speed_kmph": 52,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-24-C-4784",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "triple riding",
+    "timestamp": "2026-06-05 09:02",
+    "speed_kmph": 98,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-73-D-1694",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-06-08 19:26",
+    "speed_kmph": 97,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-60-C-2131",
+    "camera": "CAM-002 Silk Board",
+    "violation": "triple riding",
+    "timestamp": "2026-06-10 19:20",
+    "speed_kmph": 67,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-36-S-8735",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-15 08:17",
+    "speed_kmph": 62,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-45-K-6536",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-15 15:06",
+    "speed_kmph": 61,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-59-S-9222",
+    "camera": "CAM-001 MG Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-15 11:24",
+    "speed_kmph": 99,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-52-C-5472",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-23 08:00",
+    "speed_kmph": 87,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-48-U-1824",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "speeding",
+    "timestamp": "2026-06-06 10:31",
+    "speed_kmph": 95,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-46-P-7958",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-05-24 10:37",
+    "speed_kmph": 71,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-65-K-5511",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-16 12:00",
+    "speed_kmph": 56,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-25-Y-3556",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-12 17:55",
+    "speed_kmph": 96,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-89-A-2797",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "signal violation",
+    "timestamp": "2026-05-31 21:24",
+    "speed_kmph": 87,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-80-T-2784",
+    "camera": "CAM-001 MG Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-18 14:58",
+    "speed_kmph": 105,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-10-K-2299",
+    "camera": "CAM-002 Silk Board",
+    "violation": "speeding",
+    "timestamp": "2026-06-04 13:27",
+    "speed_kmph": 78,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-56-G-6669",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-25 06:30",
+    "speed_kmph": 52,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-88-V-4545",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "no helmet",
+    "timestamp": "2026-06-11 10:02",
+    "speed_kmph": 67,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-60-N-2663",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-26 15:00",
+    "speed_kmph": 51,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-65-F-2025",
+    "camera": "CAM-001 MG Road",
+    "violation": "no helmet",
+    "timestamp": "2026-05-26 14:26",
+    "speed_kmph": 87,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-99-S-9824",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-04 10:46",
+    "speed_kmph": 108,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-46-R-5804",
+    "camera": "CAM-001 MG Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-12 11:38",
+    "speed_kmph": 101,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-81-V-3522",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-29 08:05",
+    "speed_kmph": 48,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-15-U-5070",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-14 13:17",
+    "speed_kmph": 85,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-44-S-7625",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-10 16:37",
+    "speed_kmph": 79,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-69-M-2154",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-06-08 12:47",
+    "speed_kmph": 106,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-12-H-5927",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "speeding",
+    "timestamp": "2026-05-18 16:25",
+    "speed_kmph": 62,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-85-N-4801",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-06 22:11",
+    "speed_kmph": 58,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-27-U-6982",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-17 14:53",
+    "speed_kmph": 101,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-86-P-6003",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-31 22:23",
+    "speed_kmph": 99,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-41-V-7550",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "triple riding",
+    "timestamp": "2026-06-12 07:12",
+    "speed_kmph": 58,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-77-P-5167",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-10 15:10",
+    "speed_kmph": 46,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-31-B-3030",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-06-09 18:14",
+    "speed_kmph": 72,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-65-N-5257",
+    "camera": "CAM-001 MG Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-30 22:55",
+    "speed_kmph": 70,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-93-R-7383",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "signal violation",
+    "timestamp": "2026-06-08 20:06",
+    "speed_kmph": 50,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-27-E-8386",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-20 14:45",
+    "speed_kmph": 92,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-35-K-3152",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "signal violation",
+    "timestamp": "2026-06-01 13:46",
+    "speed_kmph": 50,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-03-L-7011",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-12 17:26",
+    "speed_kmph": 66,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-17-F-2634",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "no helmet",
+    "timestamp": "2026-06-03 21:46",
+    "speed_kmph": 55,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-34-A-7350",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "triple riding",
+    "timestamp": "2026-05-14 06:31",
+    "speed_kmph": 63,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-64-B-4196",
+    "camera": "CAM-002 Silk Board",
+    "violation": "no helmet",
+    "timestamp": "2026-05-20 20:55",
+    "speed_kmph": 102,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-55-N-5276",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-10 14:18",
+    "speed_kmph": 65,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-20-U-2857",
+    "camera": "CAM-002 Silk Board",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-08 06:26",
+    "speed_kmph": 46,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-79-F-4521",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-07 09:15",
+    "speed_kmph": 50,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-43-A-9713",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-26 07:31",
+    "speed_kmph": 48,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-06-N-5225",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "no helmet",
+    "timestamp": "2026-06-04 15:40",
+    "speed_kmph": 62,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-44-F-1046",
+    "camera": "CAM-001 MG Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-29 19:26",
+    "speed_kmph": 73,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-42-A-6261",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-17 14:32",
+    "speed_kmph": 97,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-33-K-2323",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-14 18:37",
+    "speed_kmph": 106,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-99-U-9520",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "speeding",
+    "timestamp": "2026-06-06 06:28",
+    "speed_kmph": 47,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-12-P-9424",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-13 17:18",
+    "speed_kmph": 74,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-70-K-3416",
+    "camera": "CAM-001 MG Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-11 17:02",
+    "speed_kmph": 92,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-51-C-5965",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-04 17:06",
+    "speed_kmph": 95,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-55-D-9543",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-07 09:52",
+    "speed_kmph": 71,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-87-M-8454",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-10 12:58",
+    "speed_kmph": 51,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-07-M-3026",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-10 22:53",
+    "speed_kmph": 56,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-24-A-2988",
+    "camera": "CAM-001 MG Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-31 07:43",
+    "speed_kmph": 69,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-77-D-8747",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "speeding",
+    "timestamp": "2026-05-19 21:44",
+    "speed_kmph": 49,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-35-H-1733",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-18 16:25",
+    "speed_kmph": 62,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-81-T-7079",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-15 19:50",
+    "speed_kmph": 78,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-61-L-6874",
+    "camera": "CAM-001 MG Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-02 06:12",
+    "speed_kmph": 59,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-12-Y-6278",
+    "camera": "CAM-002 Silk Board",
+    "violation": "speeding",
+    "timestamp": "2026-06-10 10:57",
+    "speed_kmph": 71,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-13-C-4373",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "speeding",
+    "timestamp": "2026-05-16 08:10",
+    "speed_kmph": 107,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-92-L-4269",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-03 11:37",
+    "speed_kmph": 93,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-02-T-8886",
+    "camera": "CAM-002 Silk Board",
+    "violation": "no helmet",
+    "timestamp": "2026-05-23 13:24",
+    "speed_kmph": 75,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-36-F-6872",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "no helmet",
+    "timestamp": "2026-05-28 19:46",
+    "speed_kmph": 80,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-32-D-6727",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-26 09:01",
+    "speed_kmph": 59,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-21-G-4832",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-23 07:55",
+    "speed_kmph": 56,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-83-N-5335",
+    "camera": "CAM-001 MG Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-16 07:40",
+    "speed_kmph": 61,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-24-H-2822",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "signal violation",
+    "timestamp": "2026-05-31 10:26",
+    "speed_kmph": 102,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-52-C-3656",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-20 11:06",
+    "speed_kmph": 109,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-97-B-6022",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-02 19:16",
+    "speed_kmph": 102,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-74-K-6769",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "speeding",
+    "timestamp": "2026-06-05 19:32",
+    "speed_kmph": 69,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-05-L-4218",
+    "camera": "CAM-002 Silk Board",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-10 07:33",
+    "speed_kmph": 93,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-67-L-2702",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-02 14:35",
+    "speed_kmph": 56,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-66-U-6596",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-06-08 19:08",
+    "speed_kmph": 89,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-26-V-3899",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-27 16:20",
+    "speed_kmph": 56,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-30-E-8325",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "speeding",
+    "timestamp": "2026-05-17 21:23",
+    "speed_kmph": 105,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-87-P-6791",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-30 10:21",
+    "speed_kmph": 100,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-79-M-3590",
+    "camera": "CAM-001 MG Road",
+    "violation": "triple riding",
+    "timestamp": "2026-06-10 09:58",
+    "speed_kmph": 61,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-05-R-9709",
+    "camera": "CAM-001 MG Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-31 08:44",
+    "speed_kmph": 76,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-12-C-8715",
+    "camera": "CAM-001 MG Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-22 10:48",
+    "speed_kmph": 90,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-88-S-8485",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-17 10:10",
+    "speed_kmph": 54,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-95-N-5753",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "triple riding",
+    "timestamp": "2026-05-16 21:29",
+    "speed_kmph": 61,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-04-M-6084",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-01 19:46",
+    "speed_kmph": 59,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-28-N-6015",
+    "camera": "CAM-002 Silk Board",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-31 14:02",
+    "speed_kmph": 56,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-98-U-6172",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-05 14:52",
+    "speed_kmph": 70,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-30-H-4930",
+    "camera": "CAM-002 Silk Board",
+    "violation": "no helmet",
+    "timestamp": "2026-05-24 14:51",
+    "speed_kmph": 65,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-68-U-5285",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "triple riding",
+    "timestamp": "2026-06-03 07:39",
+    "speed_kmph": 94,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-64-S-7523",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "signal violation",
+    "timestamp": "2026-06-01 07:56",
+    "speed_kmph": 67,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-56-R-7690",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-30 09:54",
+    "speed_kmph": 79,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-92-R-2119",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "signal violation",
+    "timestamp": "2026-05-17 10:02",
+    "speed_kmph": 50,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-54-N-6094",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-18 06:33",
+    "speed_kmph": 81,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-73-S-8044",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-31 19:28",
+    "speed_kmph": 91,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-10-L-6590",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "signal violation",
+    "timestamp": "2026-05-18 14:03",
+    "speed_kmph": 61,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-28-E-2696",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-26 18:01",
+    "speed_kmph": 89,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-36-G-8580",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-13 16:02",
+    "speed_kmph": 84,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-24-U-6644",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-12 21:14",
+    "speed_kmph": 93,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-55-L-9048",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-18 07:23",
+    "speed_kmph": 60,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-59-K-5441",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-27 18:45",
+    "speed_kmph": 66,
+    "fine_amount": 2000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-14-P-2634",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-14 07:34",
+    "speed_kmph": 85,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-06-R-4521",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-16 07:29",
+    "speed_kmph": 109,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-48-C-3437",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-20 06:51",
+    "speed_kmph": 106,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-95-P-6200",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-12 11:43",
+    "speed_kmph": 81,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-03-D-7174",
+    "camera": "CAM-001 MG Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-06-09 21:46",
+    "speed_kmph": 73,
+    "fine_amount": 1000,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-74-B-3851",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "no helmet",
+    "timestamp": "2026-06-08 13:19",
+    "speed_kmph": 109,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-11-F-4787",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "speeding",
+    "timestamp": "2026-06-12 18:03",
+    "speed_kmph": 62,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-09-C-1489",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "signal violation",
+    "timestamp": "2026-06-08 22:21",
+    "speed_kmph": 84,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-03-N-9839",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "speeding",
+    "timestamp": "2026-06-11 17:29",
+    "speed_kmph": 51,
+    "fine_amount": 500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-13-Y-5351",
+    "camera": "CAM-003 Hebbal Flyover",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-15 20:36",
+    "speed_kmph": 63,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-04-P-3046",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "speeding",
+    "timestamp": "2026-05-17 14:44",
+    "speed_kmph": 80,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-09-G-9519",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "triple riding",
+    "timestamp": "2026-06-11 08:53",
+    "speed_kmph": 104,
+    "fine_amount": 2000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-44-L-5703",
+    "camera": "CAM-001 MG Road",
+    "violation": "signal violation",
+    "timestamp": "2026-05-31 17:19",
+    "speed_kmph": 110,
+    "fine_amount": 2000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-29-B-1890",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "signal violation",
+    "timestamp": "2026-05-26 07:04",
+    "speed_kmph": 71,
+    "fine_amount": 500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-23-V-3580",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "illegal parking",
+    "timestamp": "2026-05-18 13:18",
+    "speed_kmph": 58,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-80-H-7093",
+    "camera": "CAM-006 Whitefield Main Road",
+    "violation": "triple riding",
+    "timestamp": "2026-05-27 15:01",
+    "speed_kmph": 53,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-42-P-1481",
+    "camera": "CAM-008 Yeshwanthpur Circle",
+    "violation": "speeding",
+    "timestamp": "2026-06-05 21:51",
+    "speed_kmph": 81,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-46-B-8612",
+    "camera": "CAM-002 Silk Board",
+    "violation": "speeding",
+    "timestamp": "2026-05-25 16:28",
+    "speed_kmph": 95,
+    "fine_amount": 1500,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-36-G-4236",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "red light jumping",
+    "timestamp": "2026-05-15 21:32",
+    "speed_kmph": 89,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-60-M-3689",
+    "camera": "CAM-004 Marathahalli Bridge",
+    "violation": "signal violation",
+    "timestamp": "2026-05-31 13:01",
+    "speed_kmph": 59,
+    "fine_amount": 500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-94-R-9058",
+    "camera": "CAM-005 Koramangala 5th Block",
+    "violation": "speeding",
+    "timestamp": "2026-06-08 17:43",
+    "speed_kmph": 55,
+    "fine_amount": 1000,
+    "status": "contested"
+  },
+  {
+    "plate": "KA-71-A-9642",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-01 20:29",
+    "speed_kmph": 76,
+    "fine_amount": 1500,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-60-M-2546",
+    "camera": "CAM-002 Silk Board",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-06-05 22:38",
+    "speed_kmph": 79,
+    "fine_amount": 1500,
+    "status": "pending"
+  },
+  {
+    "plate": "KA-12-D-1134",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "red light jumping",
+    "timestamp": "2026-06-07 17:30",
+    "speed_kmph": 52,
+    "fine_amount": 1000,
+    "status": "paid"
+  },
+  {
+    "plate": "KA-40-P-2678",
+    "camera": "CAM-007 Bannerghatta Road",
+    "violation": "wrong lane driving",
+    "timestamp": "2026-05-20 07:02",
+    "speed_kmph": 70,
+    "fine_amount": 1000,
+    "status": "pending"
+  }
+]
